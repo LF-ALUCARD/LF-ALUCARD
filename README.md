@@ -39,3 +39,9 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LF-ALUCARD/LF-ALUCARD/output/github-contribution-grid-snake.svg?color_snake=#b8bb26&color_dots=#282828,#3c3836,#504945,#665c54,#7c6f64">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LF-ALUCARD/LF-ALUCARD/output/github-contribution-grid-snake.svg?color_snake=#b8bb26&color_dots=#fbf1c7,#ebdbb2,#d5c4a1,#bdae93,#a89984">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LF-ALUCARD/LF-ALUCARD/output/github-contribution-grid-snake.svg?color_snake=#b8bb26&color_dots=#282828,#3c3836,#504945,#665c54,#7c6f64">
+</picture>

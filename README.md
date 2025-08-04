@@ -4,7 +4,7 @@
 
 - 🧑‍🎓 3° Periodo de ADS  
 - 🧑🏻‍💻 Assistente de T.I
-- 
+- 🧑🏻‍💻 Dev. back-end em formação.
 
 <table>
   <tr>
